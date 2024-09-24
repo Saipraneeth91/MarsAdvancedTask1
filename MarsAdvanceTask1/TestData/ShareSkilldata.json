@@ -1,0 +1,19 @@
+{
+  "ShareskillRecords": [
+    {
+      "Title": "SaiSelenium",
+      "Description": "SeleniumTraining",
+      "Category": "Business",
+      "SubCategory": "Other",
+      "Tags": "Selinum",
+      "ServiceType": "One - off service",
+      "LocationType": "On-site",
+      "StartDate": "09302025",
+      "EndDate": "08302026",
+      "SkillTrade": "Credit",
+      "SkillExchange": "Graphic Design",
+      "Active": "Active"
+    }
+
+  ]
+}

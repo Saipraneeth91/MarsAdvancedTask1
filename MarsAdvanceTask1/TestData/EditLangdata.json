@@ -1,0 +1,12 @@
+{
+  "LanguageRecords": [
+    {
+      "AddLanguage": "English",
+      "ChooseLanguageLevel": "Fluent"
+    },
+    {
+      "AddLanguage": "Hindi",
+      "ChooseLanguageLevel": "Fluent"
+    }
+  ]
+}
